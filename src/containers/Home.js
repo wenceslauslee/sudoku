@@ -6,7 +6,7 @@ export default class Home extends Component {
     return (
       <div className="Home">
         <div className="lander">
-          <h1>Welcome to Data Collection</h1>
+          <h1>Welcome to Sudoku</h1>
           <p>Join us in a fun environment for recording videos.</p>
           {this.props.isAuthenticated
             ? <div className="lander2"><br/><p>OR JOIN US FOR EVIL DOMINATION OF THE WORLD!!!</p></div>

@@ -66,7 +66,7 @@ class App extends Component {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to="/">Data Collector</Link>
+              <Link to="/">Sudoku</Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
